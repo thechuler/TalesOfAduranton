@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "talesofaduranton:item/lil_rocky_2d"
+  }
+}

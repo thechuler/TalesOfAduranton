@@ -1,0 +1,82 @@
+{
+
+
+  "frogmanambient": {
+    "subtitles": "sounds.talesofaduranton.frogmanambient",
+    "sounds":[
+      "talesofaduranton:frogmanambient1",
+      "talesofaduranton:frogmanambient2",
+      "talesofaduranton:frogmanambient3"
+    ]
+  },
+
+
+  "frogmanhurt": {
+    "subtitles": "sounds.talesofaduranton.frogmanhurt",
+    "sounds":[
+      "talesofaduranton:frogmanhurt1",
+      "talesofaduranton:frogmanhurt2"
+    ]
+  },
+
+
+  "frogmandeath": {
+    "subtitles": "sounds.talesofaduranton.frogmandeath",
+    "sounds":[
+      "talesofaduranton:frogmandeath1",
+      "talesofaduranton:frogmandeath2"
+    ]
+  },
+
+
+  "frogmaneasteregg": {
+    "subtitles": "sounds.talesofaduranton.frogmaneasteregg",
+    "sounds":[
+      "talesofaduranton:frogmaneasteregg"
+    ]
+  },
+
+  "moscas": {
+    "subtitles": "sounds.talesofaduranton.moscas",
+    "sounds":[
+      "talesofaduranton:moscas"
+    ]
+  },
+
+  "cannon_shoot": {
+    "subtitles": "sounds.talesofaduranton.cannon_shoot",
+    "sounds":[
+      "talesofaduranton:cannon_shoot"
+    ]
+  },
+
+  "cannon_reload": {
+    "subtitles": "sounds.talesofaduranton.cannon_reload",
+    "sounds":[
+      "talesofaduranton:cannon_reload"
+    ]
+  },
+
+  "empty_cannon": {
+    "subtitles": "sounds.talesofaduranton.empty_cannon",
+    "sounds":[
+      "talesofaduranton:empty_cannon"
+    ]
+  },
+
+
+  "cannon_click": {
+    "subtitles": "sounds.talesofaduranton.cannon_click",
+    "sounds":[
+      "talesofaduranton:cannon_click"
+    ]
+  },
+
+  "nitro_fluid_splash": {
+    "subtitles": "sounds.talesofaduranton.nitrofluid",
+    "sounds":[
+      "talesofaduranton:nitrofluid"
+    ]
+  }
+
+}

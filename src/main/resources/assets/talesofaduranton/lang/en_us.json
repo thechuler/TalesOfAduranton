@@ -1,0 +1,40 @@
+{
+
+
+
+
+  "item.rbk.geode":"Geode",
+
+  "item.rbk.frogman_spawn_egg": "Frogman spawn egg",
+  "item.rbk.raw_frog_meat": "Raw frog meat",
+  "item.rbk.cooked_frog_meat": "Cooked frog meat",
+  "sounds.rbk.frogmanambient": "Frog croak",
+  "sounds.rbk.frogmaneasteregg": "Drums sound",
+
+
+
+  "item.rbk.nitro_mosca": "Nitro-Fly Spawn egg",
+  "item.rbk.cannon_chage": "Cannon Charge",
+  "item.rbk.gun_frame": "Cannon Frame",
+  "item.rbk.cannon_head": "Cannon Head",
+  "item.rbk.decayed_charge": "Decayed charge",
+  "item.rbk.unstable_charge": "Unstable Charge",
+  "item.rbk.nitro_fluid": "Nitro fluid",
+  "item.rbk.lilrocky": "Lil Rocky",
+  "item.rbk.lava_eaters": "Lava Eaters",
+  "item.rbk.ferromagma_ingot": "Ferro-Magma Ingot",
+
+
+  "creativetab.main_tab": "Tales Of Aduranton",
+
+
+
+
+  "block.rbk.piedra_cargada": "Heavy Stone"
+
+
+
+
+
+
+}

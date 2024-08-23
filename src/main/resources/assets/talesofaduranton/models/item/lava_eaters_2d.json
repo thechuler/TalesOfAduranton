@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "talesofaduranton:item/lava_eaters_2d"
+  }
+}

@@ -1,0 +1,39 @@
+{
+
+
+  "item.rbk.geode":"Geoda",
+
+  "item.rbk.frogman_spawn_egg": "Generador de Hombre Rana",
+  "item.rbk.raw_frog_meat": "Carne de rana cruda",
+  "item.rbk.cooked_frog_meat": "Carne de rana cocinada",
+  "sounds.rbk.frogmanambient": "Frog croak",
+  "sounds.rbk.frogmaneasteregg": "Drums sound",
+
+
+
+  "item.rbk.nitro_mosca": "Nitro-Fly Spawn egg",
+  "item.rbk.cannon_chage": "Bala de Cañon",
+  "item.rbk.gun_frame": "Armazón de cañon",
+  "item.rbk.cannon_head": "Cabeza de cañon",
+  "item.rbk.decayed_charge": "Carga Putrefacta",
+  "item.rbk.unstable_charge": "Carga Inestable",
+  "item.rbk.nitro_fluid": "Nitro Fluido",
+  "item.rbk.lilrocky": "Lil Rocky",
+  "item.rbk.lava_eaters": "Devoradores de Lava",
+  "item.rbk.ferromagma_ingot": "Lingote de FerroMagma",
+
+
+  "creativetab.main_tab": "Tales Of Aduranton",
+
+
+
+
+  "block.rbk.piedra_cargada": "Piedra Cargada"
+
+
+
+
+
+
+
+}
